@@ -1,0 +1,15 @@
+/* CSS Setting */
+.main-color, .navToggle12 .icon, .navToggle12 .icon:before, .navToggle12 .icon:after, #main-menu-vertical ul.main-menu li.current-menu a:after, ul.main-menu li a:hover:after{
+	background-color: #dc2b00;
+}
+.color-main, #contact-wrapper .info-user li i, .btn-sumary:hover{
+	color: #dc2b00;
+}
+#main-menu-vertical ul.main-menu li a:hover, #main-menu-vertical ul.main-menu li.current-menu a,  .btn-sumary:hover{
+	border-color:#dc2b00;
+}
+#main-menu-vertical ul.main-menu, #contact-wrapper .info-user, .frame ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
