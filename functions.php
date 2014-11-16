@@ -73,7 +73,7 @@ class ET_Home extends AE_Base {
 	*/
 	function et_home_init(){
 		// add images sizes
-		add_theme_support( 'posts_thumnails' );
+		add_theme_support( 'post-thumbnails' );
         // register menu
         register_nav_menu('et_header', __("Header menu"));
         register_nav_menu('et_footer', __("Footer menu"));
